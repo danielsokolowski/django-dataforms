@@ -11,3 +11,4 @@ dist
 example/static/*
 example/media/*
 example/dataforms.db
+migrations/
